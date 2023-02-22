@@ -2,7 +2,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300"/>
     <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300"/>
-  
 </div>
 Hi there 👋, I'm Sergey
 </br>
@@ -48,6 +47,9 @@ Hi there 👋, I'm Sergey
   <img src="https://www.svgrepo.com/show/452242/jquery.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+![P1xelST's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1xelST&show_icons=true&theme=midnight-purple)
 
 <!---
 P1xelST/P1xelST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
