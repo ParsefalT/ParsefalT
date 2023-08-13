@@ -22,7 +22,6 @@ Hi there 👋, I'm Sergey
 
 - 👋 Hi, I’m @P1xelST/Sergey<br>
 - 👀 I’m interested in all programming<br>
-- 🌱 I’m currently learning in Yandex<br>
 - 💞️ I’m looking to collaborate on (?)<br>
 - 📫 How to reach me (?)
 ---
