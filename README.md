@@ -20,10 +20,8 @@ Hi there 👋, I'm Sergey
 
 ### :man_technologist: About Me : <img src="https://little.kylerconway.com/images/golang-what.gif" width="200"><img src="https://intro.rustbridge.com/img/ferris.gif" width="200">
 
-- 👋 Hi, I’m @P1xelST/Sergey<br>
-- 👀 I’m interested in all programming<br>
+- 👋 Hi<br>
 - 💞️ I’m looking to collaborate on (?)<br>
-- 📫 How to reach me (?)
 ---
 
 ### :hammer_and_wrench: Languages and Tools
