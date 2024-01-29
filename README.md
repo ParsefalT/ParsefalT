@@ -45,8 +45,6 @@ Hi there 👋, I'm Sergey
 
 ---
 
-![P1xelST's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1xelST&show_icons=true&theme=midnight-purple)
-
 <!---
 P1xelST/P1xelST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
