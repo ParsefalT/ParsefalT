@@ -9,7 +9,7 @@ Hi there 👋
     <a href="#">
         <img alt="Sergey Trifonov | Telegram" width="44px" src="https://www.svgrepo.com/show/354443/telegram.svg" />
     </a>&nbsp;
-    <a href="https://vk.com/id743421277">
+    <a href="h43421277">
         <img alt="Sergey Trifonov | VK" width="44px" src="https://www.svgrepo.com/show/331634/vk-v2.svg" />
     </a>&nbsp;
     <a href="#">
