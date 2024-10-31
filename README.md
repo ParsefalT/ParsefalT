@@ -1,7 +1,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=32&pause=2000&color=613AF7&width=220&lines=Trifonov+Sergei" alt="Typing SVG" /></a>
 </h1>
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 <p>
 
 </p>
@@ -12,7 +12,7 @@
   </a>
 </p>
 <hr>
-<h2 align="left">⚒️ Language & Frameworks & utils ⚒️</h2>
+<h2 align="center">⚒️ Language & Frameworks & utils ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,tailwind,figma,nodejs,prisma,docker" />
