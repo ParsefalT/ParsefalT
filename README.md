@@ -19,4 +19,3 @@
   </a>
 </p>
 <hr>
-<!-- nextjs postgresql -->
