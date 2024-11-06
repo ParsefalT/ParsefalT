@@ -15,7 +15,7 @@
 <h2 align="center">⚒️ Language & Frameworks & utils ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,tailwind,figma,nodejs,prisma,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,neovim,npm,tailwind,figma,nodejs,prisma,docker" />
   </a>
 </p>
 <hr>
