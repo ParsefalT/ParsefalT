@@ -11,11 +11,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=orange&logoSize=amd&labelColor=black&color=black">
   </a>
 </p>
-<hr>
-<h2 align="center">⚒️ Language & Frameworks & utils ⚒️</h2>
+<!-- <h2 align="center">⚒️ Language & Frameworks & utils ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,neovim,npm,tailwind,figma,nodejs,prisma,docker" />
   </a>
-</p>
-<hr>
+</p> -->
